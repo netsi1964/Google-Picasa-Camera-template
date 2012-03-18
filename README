@@ -1,12 +1,14 @@
 Google Picasa Camera Template
 
-Here is my template for Google Picasa which will allow you to easily create stunning responsive 
-slideshows directly from Google Picasa. Simply choose a folder og individual pictures in Google
-Picasa, goto menu "folder" and select the "Camera, Responsive HTML slideshow" from within wizard
-found under "Export to HTML".
+Here is my template for Google Picasa which will allow you to easily
+create stunning responsive slideshows directly from Google Picasa.
+Simply choose a folder og individual pictures in Google Picasa,
+goto menu "folder" and select the "Camera, Responsive HTML slideshow"
+from within wizard found under "Export to HTML".
 
-It will be created to a folder which can be uploaded to your website, voila! You have your
-pictures from your computer online in a great slideshow.
+It will be created to a folder which can be uploaded to your website,
+voila! You have your pictures from your computer online in a great
+slideshow.
 
 You can read my blog post about this Template here:
 http://goo.gl/dolsg
@@ -18,9 +20,10 @@ Installation and use:
    looking something like this:
    C:\Program Files\Google\Picasa3\web\templates
 2) Open Google Picasa
-3) Select the images you want to be included in the Camera slideshow gallery 
-4) In the menu "Folder" select the "Export to HTML" (I only have a Danish version,
-   menu items might be some other names)
+3) Select the images you want to be included in the
+   Camera slideshow gallery 
+4) In the menu "Folder" select the "Export to HTML" (I only have a
+   Danish version,menu items might be some other names)
 5) Choose "Camera"
 6) Name the slideshow gallery and click export.
 
